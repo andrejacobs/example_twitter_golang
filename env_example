@@ -1,0 +1,8 @@
+#!/bin/bash
+# usage: source .env
+export GOTWI_API_KEY=your_consumer_api_key
+export GOTWI_API_KEY_SECRET=your_consumer_api_secret
+
+# OAuth 1.0a User token
+export TW_ACCESS_TOKEN=your_oauth_user_token
+export TW_ACCESS_SECRET=your_oauth_user_secret
