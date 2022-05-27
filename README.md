@@ -4,7 +4,7 @@ Send a tweet to Twitter using Go.
 
 This example code is a precursor for me while I am working on my hobby project [ajtweet](https://github.com/andrejacobs/ajtweet-cli/) that I will be using to schedule tweets.
 
-See my [blog post](TODO) for more details on how to explore the Twitter APIs and how I wrote this code.
+See my [blog post](https://andrejacobs.org/projects/send-twitter-tweets-using-go/) for more details on how to explore the Twitter APIs and how I wrote this code.
 
 **NOTE:** This uses the [gotwi library](github.com/michimani/gotwi) for doing the heavy work.
 
